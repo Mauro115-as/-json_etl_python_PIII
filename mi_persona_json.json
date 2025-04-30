@@ -1,0 +1,32 @@
+[
+    {
+        "nombre": "Mauro",
+        "apellido": "Gonza",
+        "DNI": "46055003",
+        "elementos_vestir": [
+            {
+                "prenda": "camisa",
+                "cantidad": 4
+            },
+            {
+                "prenda": "zapato",
+                "cantidad": 12
+            }
+        ]
+    },
+    {
+        "nombre": "Mauro",
+        "apellido": "Gonza",
+        "DNI": "46055003",
+        "elementos_vestir": [
+            {
+                "prenda": "camisa",
+                "cantidad": 4
+            },
+            {
+                "prenda": "zapato",
+                "cantidad": 12
+            }
+        ]
+    }
+]
